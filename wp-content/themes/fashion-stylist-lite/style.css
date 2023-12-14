@@ -1,0 +1,79 @@
+/*
+Theme Name: Fashion Stylist Lite
+Theme URI: https://www.ovationthemes.com/wordpress/free-fashion-wordpress-theme/
+Author: pewilliams
+Author URI: https://www.ovationthemes.com/
+Description: A fashion stylist lite is a pre-designed template specifically created for fashion stylists and personal stylists. The theme provides a visually appealing and functional layout for fashion stylists to showcase their portfolio of work, services, and expertise. This type of theme typically includes features such as custom post types for styling portfolios, testimonials, and blog posts, integration with social media platforms, mobile-responsive design, and customization options through the WordPress customizer. A fashion stylist WordPress theme helps stylists to establish a professional online presence and reach potential clients in the fashion industry.
+Version: 2.0
+Requires PHP: 5.6
+Tested up to: 6.3
+Requires at least: 5.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: fashion-stylist-lite
+Template: fashion-designer-studio
+Tags: one-column, two-columns, three-columns, four-columns, right-sidebar, left-sidebar, grid-layout, full-width-template, sticky-post, block-styles, custom-colors, custom-background, custom-header, flexible-header, featured-image-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, threaded-comments, wide-blocks, post-formats, food-and-drink, portfolio, e-commerce
+
+Fashion Stylist Lite WordPress Theme, Copyright 2023 pewilliams
+Fashion Stylist Lite is distributed under the terms of the GNU GPL
+
+Fashion Stylist Lite WordPress Theme is child theme of Fashion Designer Studio WordPress Theme, Copyright 2023 pewilliams
+Fashion Designer Studio WordPress Theme is distributed under the terms of the GNU GPL
+*/
+
+.entry-content a, .woocommerce-product-details__short-description a, .textwidget a, .comment-content a, .content-area a{
+    color: #888888;
+}
+h3.coll-head {
+    font-size: 30px;
+    font-weight: 700;
+    color: #000000;
+    border-bottom: solid 2px;
+    display: inline-block;
+}
+a.coll-btn {
+    font-size: 18px;
+    font-weight: 700;
+    border-bottom: solid 2px;
+    display: inline-block;
+}
+.box .title{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+/*slider*/
+
+.slide-box {
+    position: relative;
+    background: #000000;
+}
+.slide-box-content {
+    position: absolute;
+    bottom: 50px;
+    z-index: 999;
+    left: 50px;
+}
+.slide-box-content h3 {
+    text-transform: uppercase;
+    color: #fff;
+}
+.slide-box-content a {
+    background: #fff;
+    padding: 10px 15px;
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.has-media-on-the-right  img{
+    width: 20vw!important;
+    margin-left: 0px!important;
+}
+.wp-block-media-text__media img{
+    height: auto;
+    max-width: unset;
+    vertical-align: middle;
+    width: 91%;
+    margin-left:43px;
+}

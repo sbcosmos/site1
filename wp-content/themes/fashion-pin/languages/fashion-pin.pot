@@ -1,0 +1,216 @@
+# <!=Copyright (C) 2022 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Fashion Pin 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/fashion-pin\n"
+"POT-Creation-Date: 2022-07-08 08:00:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:56
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:69
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:71
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:96
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:97
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:110
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:111
+msgid "Customize Typography & Background Image"
+msgstr ""
+
+#: functions.php:119
+msgid "Typography"
+msgstr ""
+
+#: functions.php:139
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:140
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:161
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:162
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:184
+msgid "Font Size"
+msgstr ""
+
+#: functions.php:185
+msgid "Change the font size of your site."
+msgstr ""
+
+#: functions.php:209
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: functions.php:210
+msgid ""
+"Enable to load google fonts from your own server instead from google's CDN. "
+"This solves privacy concerns with Google's CDN and their sometimes "
+"less-than-transparent policies."
+msgstr ""
+
+#: functions.php:229
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: functions.php:230
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: functions.php:238
+msgid "Click the button to reset the local fonts cache"
+msgstr ""
+
+#: functions.php:240
+msgid "Flush Local Font Files"
+msgstr ""
+
+#: functions.php:254
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: functions.php:270 functions.php:291
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:292
+msgid "it is the layout for header."
+msgstr ""
+
+#: functions.php:305 functions.php:326
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:327
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:350
+msgid "%1$sClick here%2$s to configure slider settings."
+msgstr ""
+
+#: functions.php:369
+msgid "%1$sClick here%2$s to select the layout of slider banner."
+msgstr ""
+
+#: functions.php:410 functions.php:416
+msgid "search form toggle"
+msgstr ""
+
+#: functions.php:450
+msgid "Wondering how your peers are using social media?"
+msgstr ""
+
+#: functions.php:451
+msgid "Discover how people in the community create pins to get their attention."
+msgstr ""
+
+#: functions.php:452
+msgid "Discover More"
+msgstr ""
+
+#: functions.php:853
+msgid " Fashion Pin | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:856
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:856
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Fashion Pin"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/wordpress-themes/fashion-pin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Fashion Pin is a Pinterest-style and feminine WordPress theme for "
+"professional bloggers. You can easily create a visually appealing and "
+"eye-catching site to share your expert fashion tips, your favorite recipes, "
+"or create a lifestyle, travel, food, beauty and makeup, coaching, or any "
+"other themed blog. With Fashion Pin, you can customize the look and feel of "
+"your website with unlimited colors and 1000+ Google fonts. This theme is "
+"mobile-friendly, SEO optimized and loads fast to help your site rank better "
+"on search engines. The strategically placed newsletter section will help "
+"you to grow your subscribers. With the Instagram section, you can flaunt "
+"your latest posts. Fashion Pin is Schema friendly, translation-ready, and "
+"WooCommerce and RTL compatible. Check demo at "
+"https://blossomthemes.com/theme-demo/?theme=fashion-pin, read the "
+"documentation at https://docs.blossomthemes.com/fashion-pin/, and get "
+"support at https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:539
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:540
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:541
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
